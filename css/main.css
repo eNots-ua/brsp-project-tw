@@ -1,0 +1,79 @@
+body {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 15px;
+  background-color: #fff;
+  letter-spacing: 0.02em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+button {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #ff6c00;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.container {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* ====================SOCIAL LINK==================== */
+
+.social-link .link {
+  display: flex;
+}
+.social-link .link .item {
+  margin-right: 40px;
+}
+
+/* =====================PRICE====================== */
+
+.subtitle {
+	
+}
+
+.price {
+}
+
+.price-title {
+}
+
+.price-list {
+}
+
+.item {
+}
